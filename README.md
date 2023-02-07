@@ -13,4 +13,4 @@ git clone https://github.com/EavenCS/ComigSoonSite.git
 
 Enter this into your VS Code terminal to get the source code
 # User Interface
-![image](https://user-images.githubusercontent.com/104131718/217371753-19131191-ade5-44be-ac42-1d77798e97bb.png)
+![image](https://user-images.githubusercontent.com/104131718/217376454-7eb5d07b-6249-41e1-ae3a-29b4a63e600b.png)
