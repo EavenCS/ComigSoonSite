@@ -5,8 +5,6 @@ A "Coming Soon" page is a placeholder on a website that indicates that the full 
 "Coming Soon" pages are important for a website because they provide visitors with a first impression of what's to come. They can be used to generate excitement for an upcoming website launch, build an email list, or gather feedback from potential customers. Additionally, they provide an opportunity to establish the branding and messaging of the website before its official launch. In any case, "Coming Soon" pages enhance interest in a website and contribute to a successful launch.
 
 # How to Clone
-The page is not live yet. You can view it once you have downloaded Git.
-
 If you don't have Git, you can use my download guide.
 Click the link to go to the guide.
 ```
